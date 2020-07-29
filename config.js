@@ -1,4 +1,4 @@
-const TOKEN = "5d1e856adcd813d72471889a9bf5f98509025aad1962176dd50fcf8af4d22016364d88de1066ffac744b5"; 
+const TOKEN = "ca5cb3ba470569d3676e458b7b45d26477f514e66c3c78ff8f104e195a1988346cca00a998dc020e31479"; 
 const GROUP_ID = 193704556; 
 const BTN_TEXT = ["vto.pe", "vkbot.ru", "vkbot.ru"];
 const TIME = 300;
