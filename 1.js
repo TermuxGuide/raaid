@@ -16,7 +16,7 @@ console.log(`deadrose bot >> Starting...`.yellow.bold);
 
 const { VK, Keyboard } = require("vk-io");
 const vk = new VK({
-    token: "5d1e856adcd813d72471889a9bf5f98509025aad1962176dd50fcf8af4d22016364d88de1066ffac744b5",
+    token: "ca5cb3ba470569d3676e458b7b45d26477f514e66c3c78ff8f104e195a1988346cca00a998dc020e31479",
     apiMode: "parallel",
     pollingGroupId: 193704556
 });
